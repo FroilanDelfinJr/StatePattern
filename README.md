@@ -97,3 +97,4 @@ public class AccountTest(){
 
 ## UML Class Diagram
 
+![State Pattern UML](https://github.com/FroilanDelfinJr/StatePattern/assets/142400742/d988a603-e24c-4920-a7e1-8150075cdceb)
